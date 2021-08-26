@@ -44,3 +44,12 @@ btnShow.addEventListener('click', () => {
 let checkbox1 = document.querySelector('input[type="checkbox"]:checked');
 result.innerText = checkbox.parentElement.textContent;
 });
+
+#varoitus2{
+    font-family:sans-serif;
+  font-size: 200%;
+  color: black;
+    position:absolute;
+  top:220px;
+  right:830px;
+}
